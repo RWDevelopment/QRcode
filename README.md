@@ -26,10 +26,13 @@ plugins:
 [qrcode size="80" border="border border-info"]your text[/qrcode]
 ```
 size in pixels 100x100
+
 deafault size 60x60
 
 Bootstrap 4 class 'border border-primary'
+
 deafault no border
+
 to change border color use Bootstrap 4 class 'border'
 
 ## Settings
