@@ -2,12 +2,9 @@ name: qrcode
 version: 1.0.0
 description: "Add QRcode to your page."
 author:
-  name: 
-  email: 
-  url: 
+  name: ''
+  email: ''
+  url: ''
 homepage: 
 bugs: 
 license: MIT
-
-# Plugin settings
-enabled: true
